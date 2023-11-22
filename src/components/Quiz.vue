@@ -71,7 +71,7 @@
 
 <style>
 body {
-  @apply bg-yellow-500;
+  @apply bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500;
   font-family: "Poppins", sans-serif;
 }
 </style>
